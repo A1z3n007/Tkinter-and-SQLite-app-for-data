@@ -11,4 +11,4 @@ This is a custom Python application that uses **Tkinter** for the graphical user
 ## Installation:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/A1z3n007/tkinter-sqlite-app.git
+   git clone https://github.com/A1z3n007/Tkinter-and-SQLite-app-for-data
